@@ -1,1 +1,1 @@
-# password_manager
+# password_manager, this is project is done using Tkinter module to crearte a visual interphase for creating random password using random module. using pyperclip module we copy the password genearated and save it in a json file. this is so that we can store the passwords to not forget and create a very random password.
